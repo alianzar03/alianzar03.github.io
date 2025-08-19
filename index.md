@@ -3,7 +3,7 @@
 **Experimental Condensed Matter Physicist**  
 Crystal growth • X-ray diffraction • Magnetism • Quantum materials
 
-[Research](research.md) • [Publications](publications.md) • [CV](cv/CV_Anzar_Ali.pdf.pdf) • [Contact](contact.md)
+[Research](research.md) • [Publications](publications.md) • [CV](cv/CV_Anzar_Ali.pdf) • [Contact](contact.md)
 
 ---
 
