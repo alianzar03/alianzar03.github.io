@@ -1,4 +1,4 @@
-# Your Name
+# Anzar Ali
 
 **Experimental Condensed Matter Physicist**  
 Crystal growth • X-ray diffraction • Magnetism • Quantum materials
