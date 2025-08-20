@@ -1,5 +1,11 @@
 # 📚 Publications
 
+## Research & Publications  
+
+My research contributions span a wide range of topics in **magnetism, frustrated quantum materials, correlated electron systems, and molecular magnetism**. Below is a selection of my published works with short highlights:  
+
+---
+
 ## 📝 In Communication  
 
 1. **Dichotomous two-orbital electrons as a platform for pure Mott transition**  
@@ -61,6 +67,143 @@
 8. **Probing signatures of fractionalization in the candidate quantum spin liquid Cu₂IrO₃ via anomalous Raman scattering**  
    S Pal, A Seth, P Sakrikar, A Ali, S Bhattacharjee, D. V. S. Muthu, Y Singh, and A. K. Sood  
    *Phys. Rev. B* **104**, 184420 (2021)  
-   [DOI:10.1103/PhysRevB.104.184420](https://doi.org/10.1103/PhysRevB.104.184420)  
+   [DOI:10.1103/PhysRevB.104.184420](https://doi.org/10.1103/PhysRevB.104.184420)
+
+
+
+### 9. Graphene oxide and its derivatives as potential Ovchinnikov ferromagnets  
+*A. Sinha, P. Ranjan, A. Ali, J. Balakrishnan, A. D. Thakur*  
+**J. Phys.: Condens. Matter 33 (2021) 375801**  
+[Link](https://iopscience.iop.org/article/10.1088/1361-648X/ac0d84)  
+→ Proposed graphene oxide and its derivatives as candidates for **Ovchinnikov ferromagnetism**, highlighting defect-driven magnetism in 2D materials.  
+
+---
+
+### 10. Quantum disordered state in the J1–J2 square-lattice antiferromagnet Sr₂Cu(Te₀․₉₅W₀․₀₅)O₆  
+*S. Yoon, W. Lee, S. Lee, J. Park, … A. Ali, Y. Singh, A. Berlie, I. Watanabe, K. W. Choi*  
+**Phys. Rev. Materials 5, 014411 (2021)**  
+[Link](https://doi.org/10.1103/PhysRevMaterials.5.014411)  
+→ Revealed a **quantum disordered ground state** in a frustrated square-lattice antiferromagnet, probing the interplay between exchange frustration and quantum fluctuations.  
+
+---
+
+### 11. Evolution of Magnetism in Graphene Oxide  
+*A. Sinha, A. Ali, A. D. Thakur*  
+**AIP Conf. Proc. 2265, 030521 (2020)**  
+[Link](https://doi.org/10.1063/5.0017166)  
+→ Investigated the **emergence of magnetism in graphene oxide**, demonstrating defect-induced local magnetic moments.  
+
+---
+
+### 12. Emergence of weak pyrochlore phase and field-induced spin-ice ground state in Dy₂₋ₓLaₓZr₂O₇  
+*Sheetal, A. Ali, S. Rajput, Y. Singh, T. Maitra, C. S. Yadav*  
+**J. Phys.: Condens. Matter 32 (2020) 365804**  
+[Link](https://doi.org/10.1088/1361-648X/ab8bf6)  
+→ Identified a **field-induced spin-ice-like state**, showing how rare-earth substitution can tune pyrochlore phases and frustration.  
+
+---
+
+### 13. Ferromagnetism in Graphene Oxide  
+*A. Sinha, A. Ali, A. D. Thakur*  
+**Materials Today: Proc. 46 (2021) 6230–6233**  
+[Link](https://doi.org/10.1016/j.matpr.2020.04.771)  
+→ Confirmed signatures of **ferromagnetic order in graphene oxide**, contributing to the understanding of 2D carbon magnetism.  
+
+---
+
+### 14. Robustness of the spin liquid state in the bilayer kagome material Ca₁₀Cr₇O₂₈  
+*A. Balodhi, A. Ali, Y. Singh*  
+**Phys. Rev. B 101, 184416 (2020)**  
+[Link](https://doi.org/10.1103/PhysRevB.101.184416)  
+→ Showed the **stability of a quantum spin liquid** against magnetic dilution in a bilayer kagome system.  
+
+---
+
+### 15. Magnetocaloric study of 3d-metal spinel chromites ACr₂O₄ (A = Mn, Fe, Co, Ni, Cu, Zn)  
+*A. Ali, Y. Singh*  
+**J. Magn. Magn. Mater. 499 (2020) 166253**  
+[Link](https://doi.org/10.1016/j.jmmm.2019.166253)  
+→ Systematic magnetocaloric investigation of spinel chromites, revealing the **interplay of spin-lattice coupling** across the 3d series.  
+
+---
+
+### 16. Rotating magnetocaloric effect in the ferromagnetic Weyl semi-metal Co₃Sn₂S₂  
+*A. Ali, Shama, Y. Singh*  
+**J. Appl. Phys. 126, 155107 (2019)**  
+[Link](https://doi.org/10.1063/1.5120005)  
+→ Demonstrated a **giant rotating magnetocaloric effect** in a topological semimetal, linking topology with caloric phenomena.  
+
+---
+
+### 17. Doping-induced metal–insulator transition and thermal transport in Germanium  
+*A. Ali, J. Singh, R. K. Gopal*  
+**AIP Conf. Proc. 2115, 030453 (2019)**  
+[Link](https://doi.org/10.1063/1.5113292)  
+→ Studied doping-driven electronic transitions and **phonon scattering effects** in Ge.  
+
+---
+
+### 18. Magnetocaloric effects from an interplay of magnetic sublattices in Nd₂NiMnO₆  
+*A. Ali, G. Sharma, A. Vardhan, … Y. Singh*  
+**J. Phys.: Condens. Matter 31 (2019) 305803**  
+[Link](https://doi.org/10.1088/1361-648X/ab151a)  
+→ Uncovered **competing magnetic sublattices** and their role in enhanced magnetocaloric effects in double perovskites.  
+
+---
+
+### 19. Fe₆ clusters of tripodal alcohol ligands: Synthesis, structures, and magnetostructural properties  
+*M. Ashfaq, M. Khalid, M. Raizada, A. Ali, …*  
+**Polyhedron 163 (2019) 131–143**  
+[Link](https://doi.org/10.1016/j.poly.2019.02.019)  
+→ Designed and studied **molecular Fe₆ clusters**, establishing magnetostructural correlations.  
+
+---
+
+### 20. Exotic low-energy excitations in the random Kitaev magnet Cu₂IrO₃  
+*Y. S. Choi, C. H. Lee, S. Lee, … A. Ali, Y. Singh, … K. Y. Choi*  
+**Phys. Rev. Lett. 122, 167202 (2019)**  
+[Link](https://doi.org/10.1103/PhysRevLett.122.167202)  
+→ Reported **random Kitaev physics** and emergent excitations, advancing the understanding of disordered quantum magnets.  
+
+---
+
+### 21. Crystal engineering and magnetostructural properties of Mn₁₂ coordination polymers  
+*M. Ashfaq, M. Khalid, M. Raizada, A. Ali, …*  
+**Cryst. Growth Des. 2019, 19, 2366–2379**  
+[Link](https://doi.org/10.1021/acs.cgd.9b00058)  
+→ Developed **Mn₁₂-based coordination polymers** with tunable magnetostructural properties.  
+
+---
+
+### 22. Role of weakly coordinating thioether groups in Ni(II) complexes of L-methionine  
+*R. Kumar, V. Mutreja, G. Sharma, S. Kumar, A. Ali, …*  
+**New J. Chem. 43, 11222–11232 (2019)**  
+[Link](https://doi.org/10.1039/c9nj02573a)  
+→ Explored **ligand-controlled molecular self-assemblies**, showing reversible structural inter-conversions.  
+
+---
+
+### 23. Critical behavior near the ferromagnetic transition in Nd₂NiMnO₆  
+*A. Ali, G. Sharma, Y. Singh*  
+**AIP Conf. Proc. 1953, 040017 (2018)**  
+[Link](https://doi.org/10.1063/1.5032637)  
+→ Analyzed the **critical exponents** of Nd₂NiMnO₆, confirming universality class behavior near phase transition.  
+
+---
+
+### 24. Dinuclear copper(II) complex with catecholase and phenoxazinone synthase activity  
+*A. K. Ghosh, A. Ali, Y. Singh, C. S. Purohit, R. Ghosh*  
+**Inorg. Chim. Acta 474 (2018) 156–163**  
+[Link](https://doi.org/10.1016/j.ica.2018.02.004)  
+→ Synthesized a novel **dinuclear Cu(II) complex** with dual enzymatic activity.  
+
+---
+
+### 25. Tyrosinase and catecholase-like activities of a dinuclear Cu(II) complex  
+*A. Chatterjee, H. R. Yadav, A. R. Choudhury, A. Ali, Y. Singh, R. Ghosh*  
+**Polyhedron 141 (2018) 140–146**  
+[Link](https://doi.org/10.1016/j.poly.2017.11.040)  
+→ Reported enzymatic biomimetic activity in **Cu-based molecular complexes**.  
+
 
 
