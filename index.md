@@ -1,31 +1,43 @@
 # Anzar Ali
 
 **Experimental Condensed Matter Physicist**  
-Crystal growth • X-ray diffraction • Magnetism • Quantum materials
+Crystal growth • Magnetism • Correlated electron systems
 
-[Research](research.md) • [Publications](publications.md) • [CV](cv/CV_Anzar_Ali.pdf) • [Contact](contact.md)
-
----
-
-## About me
-I am a researcher in experimental condensed matter physics with expertise in **crystal growth**, **X-ray diffraction**, and the study of **magnetism in quantum materials**. My work focuses on **frustrated magnetism**, **low-dimensional spin systems**, and **hexagonal perovskite compounds** containing face-sharing transition-metal octahedra.
-
-I combine techniques such as **magnetization**, **heat capacity**, and **transport measurements** with collaborations involving advanced probes like **neutron scattering** and **muon spin rotation (µSR)**. Broadly, I aim to understand how structural motifs and electronic correlations yield emergent ground states such as **quantum spin liquids** and **spin-glass behavior**.
+[Research](research.md) • [Publications](publications.md) • [CV](cv/Anzar_Ali_CV.pdf) • [Contact](contact.md)
 
 ---
 
-### News (highlights)
-- [Month YYYY] Our paper on ACoV₂O₇ zigzag chains is online.  
-- [Month YYYY] Grown single crystals of ZnCoP₂O₇ using floating-zone.  
-- [Month YYYY] Submitted a neutron diffraction proposal on ZnCoP₂O₇.
+## About Me
 
-> Tip: edit this list in `index.md`.
+I am a researcher in **experimental condensed matter physics** with a strong focus on the growth and study of **quantum magnetic materials**. My expertise lies in **single-crystal growth**, **X-ray diffraction**, and a variety of **low-temperature measurements** (magnetization, heat capacity, and transport).  
+
+My research is centered on understanding novel magnetic ground states in **frustrated magnets** and **correlated electron systems**, particularly in compounds where the crystal structure itself drives unconventional physics. A major part of my work focuses on:
+
+- **One-dimensional zigzag spin-1/2 chains**, where reduced dimensionality and frustration can stabilize exotic ground states.  
+- **Hexagonal perovskites containing face-sharing CoO₆, RhO₆, and IrO₆ octahedra**, forming **dimers and trimers** that host unusual quantum magnetic phenomena.  
+- Exploration of **localized versus itinerant electronic behavior** and the role of **molecular orbital formation** or **orbital-selective Mott states** in shaping the low-energy physics.  
+
+Through this lens, I investigate how **geometric frustration**, **orbital degrees of freedom**, and **disorder/defects** (such as cation mixing or oxygen vacancies) interplay to produce emergent phases such as **quantum spin liquids**, **spin-glass states**, and **orbital-selective correlated phases**.  
+
+I actively collaborate with groups using advanced probes such as **neutron scattering** and **muon spin rotation (µSR)** to complement bulk measurements, aiming to provide a comprehensive understanding of spin correlations and low-energy excitations.
 
 ---
 
-## Quick links
-- Google Scholar: <https://scholar.google.com/>
-- ORCID: <https://orcid.org/>
-- ResearchGate: <https://www.researchgate.net/>
-- GitHub: <https://github.com/>
+### Recent Highlights
+- Crystal growth and magnetic characterization of **zigzag spin-1/2 chain compounds** such as *ACoV₂O₇ (A = Ca, Sr, Zn)*.  
+- Discovery of **cluster spin-glass behavior** in disordered cobalt-based hexagonal perovskites.  
+- Growth of single crystals of **ZnCoP₂O₇**, revealing long-range antiferromagnetic order below ~3 K.  
+- Investigations of **Ba₃SbCo₂O₉** and related hexagonal perovskites, highlighting the role of **Co–Co dimers** in correlated electron states.  
 
+---
+
+## Research Vision
+My broader goal is to **unravel the interplay between structure, orbital physics, and magnetism** in low-dimensional and frustrated systems. By connecting **crystal chemistry, local electronic structure, and many-body physics**, I aim to discover and understand novel correlated phases that could form the basis for **new paradigms in quantum magnetism**.
+
+---
+
+## Quick Links
+- Google Scholar: <https://scholar.google.com/>  
+- ORCID: <https://orcid.org/>  
+- ResearchGate: <https://www.researchgate.net/>  
+- GitHub: <https://github.com/alianzar03>  
