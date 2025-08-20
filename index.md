@@ -14,7 +14,7 @@ I am a researcher in **experimental condensed matter physics** with a strong foc
 My research is centered on understanding novel magnetic ground states in **frustrated magnets** and **correlated electron systems**, particularly in compounds where the crystal structure itself drives unconventional physics. A major part of my work focuses on:
 
 - **One-dimensional zigzag spin-1/2 chains**, where reduced dimensionality and frustration can stabilize exotic ground states.  
-- **Hexagonal perovskites containing face-sharing CoO₆, RhO₆, and IrO₆ octahedra**, forming **dimers and trimers** that host unusual quantum magnetic phenomena.  
+- **Hexagonal perovskites containing face-sharing CoO₆, MnO₆, and RuO₆ octahedra**, forming **dimers and trimers** that host unusual quantum magnetic phenomena.  
 - Exploration of **localized versus itinerant electronic behavior** and the role of **molecular orbital formation** or **orbital-selective Mott states** in shaping the low-energy physics.  
 
 Through this lens, I investigate how **geometric frustration**, **orbital degrees of freedom**, and **disorder/defects** (such as cation mixing or oxygen vacancies) interplay to produce emergent phases such as **quantum spin liquids**, **spin-glass states**, and **orbital-selective correlated phases**.  
