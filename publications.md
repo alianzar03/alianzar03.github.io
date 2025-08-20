@@ -7,8 +7,8 @@ My research contributions span a wide range of topics in **magnetism, frustrated
 ## 📝 In Communication  
 
 1. **Dichotomous two-orbital electrons as a platform for pure Mott transition**  
-   M Kim*, S Lee*, I Park*, A Ali*, D Wulferding, K Son, G Han, R Goel, J H Lee, H Luetkens, C Wang, C Kim, J H Shim, and S K Choi  
-   *These authors contributed equally to this work.*  
+   **M Kim***, **S Lee***, **I Park***, **A Ali***, D Wulferding, K Son, G Han, R Goel, J H Lee, H Luetkens, C Wang, C Kim, J H Shim, and S K Choi  
+   ***These authors contributed equally to this work.***  
    *Nature Materials* (Under Review)  
 
 2. **Isotropic ferromagnetic moment in the magnetoelectric antiferromagnet Co₄Ta₂O₉: Realization of the P1 magnetic space group**  
