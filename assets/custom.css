@@ -1,9 +1,0 @@
-/* Justify text for all paragraphs */
-p {
-    text-align: justify;
-}
-
-/* Optionally, justify text for specific classes */
-.justify-text {
-    text-align: justify;
-}
