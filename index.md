@@ -3,7 +3,7 @@
 **Experimental Condensed Matter Physicist**  
 Crystal growth • Magnetism • Correlated electron systems
 
-[Research](research.md) • [Publications](publications.md) • [CV](cv/Anzar_Ali_CV.pdf) • [Contact](contact.md)
+[Research](research.md) • [Publications](publications.md) • [CV](cv/CV_Anzar_Ali.pdf) • [Contact](contact.md)
 
 ---
 
