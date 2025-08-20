@@ -5,3 +5,5 @@ theme: jekyll-theme-cayman
 logo: /assets/profile.jpg
 # Optional: add your Google Analytics ID
 # google_analytics: G-XXXXXXXXXX
+theme_config:
+  custom_css: /assets/css/custom.css
