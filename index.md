@@ -1,5 +1,4 @@
 # Anzar Ali
-![Profile Picture](/assets/profile.jpg)
 **Experimental Condensed Matter Physicist**  
 Crystal growth • Magnetism • Correlated electron systems
 
