@@ -1,11 +1,9 @@
 # Contact
 
-- **Email:** your.email@institute.edu  
-- **Affiliation:** Department / Institute / University  
-- **Address:** City, Country  
-- **Google Scholar:** https://scholar.google.com/  
-- **ORCID:** https://orcid.org/  
-- **ResearchGate:** https://www.researchgate.net/  
-- **GitHub:** https://github.com/
-
-> Replace these with your real links. Edit `contact.md`.
+- **Email:** alianzar03@gmail.com  
+- **Affiliation:** Max Planck Institute for Solid State Research, Stuttgart 
+- **Address:** Stuttgart, Germany  
+- **Google Scholar:** https://scholar.google.co.in/citations?user=xmuBT8YAAAAJ&hl=en/  
+- **ORCID:** https://orcid.org/0000-0002-6390-7211 
+- **ResearchGate:** https://www.researchgate.net/profile/Anzar-Ali?ev=hdr_xprf/  
+- **GitHub:** https://alianzar03.github.io/research.html/
