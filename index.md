@@ -38,5 +38,5 @@ My broader goal is to **unravel the interplay between structure, orbital physics
 ## Quick Links
 - Google Scholar: <https://scholar.google.co.in/citations?user=xmuBT8YAAAAJ&hl=en/>  
 - ORCID: <https://orcid.org/0000-0002-6390-7211/>  
-- ResearchGate: <https://www.researchgate.net/profile/Anzar-Ali?ev=hdr_xprf>  
+- ResearchGate: <https://www.researchgate.net/profile/Anzar-Ali?ev=hdr_xprf/>  
 - GitHub: <https://alianzar03.github.io/>  
