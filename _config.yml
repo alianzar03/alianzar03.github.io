@@ -3,3 +3,5 @@ description: "Experimental condensed matter physicist — crystal growth, magnet
 theme: jekyll-theme-cayman
 # Optional: set a logo image file in the repo (e.g., /assets/profile.jpg)
 logo: /assets/profile.jpg
+theme_config:
+  custom_css: /assets/css/custom.css
