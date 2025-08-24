@@ -1,9 +1,15 @@
-/* Justify text for all paragraphs */
-p {
-    text-align: justify;
+/* ✅ Make content area wider */
+.main-content {
+  max-width: 1200px;   /* default ~740px */
+  margin: 0 auto;
+  padding: 20px;
+  font-size: 18px;     /* optional: slightly larger text */
+  line-height: 1.6;
 }
 
-/* Optionally, justify text for specific classes */
-.justify-text {
-    text-align: justify;
+/* ✅ Center and resize profile logo (optional tweak) */
+.page-header .logo {
+  max-width: 140px;
+  border-radius: 50%;   /* makes it circular */
+  margin-top: 10px;
 }
