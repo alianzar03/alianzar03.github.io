@@ -1,9 +1,58 @@
+# ==============================
+#   Personal Website Config
+# ==============================
+
+# Site settings
 title: "Anzar Ali"
 description: "Experimental condensed matter physicist — crystal growth, magnetism & quantum materials"
-theme: jekyll-theme-cayman
-# Optional: set a logo image file in the repo (e.g., /assets/profile.jpg)
-logo: /assets/profile.jpg
-# Optional: add your Google Analytics ID
-# google_analytics: G-XXXXXXXXXX
-theme_config:
-  custom_css: /assets/css/custom.css
+baseurl: ""   # Leave blank if hosting at username.github.io
+url: "https://alianzar03.github.io"  # <-- replace 'username' with your GitHub username
+
+# Theme
+remote_theme: alshedivat/al-folio
+
+# Profile information
+name: "Anzar Ali"
+job: "Experimental Condensed Matter Physicist"
+email: "alianzar03@gmail.com"
+phone: "+49 15212647344"   # optional
+address: "Heisenbergstr. 1, 70569, Stuttgart" # optional
+photo: "assets/profile.jpg"  # put your photo here
+
+# Social links
+social:
+  github: anzar-ali   # replace with your GitHub handle
+  linkedin: your-linkedin
+  scholar: your-scholar-id
+  researchgate: your-researchgate
+  twitter: your-twitter
+  orcid: your-orcid
+
+# Navbar pages
+navbar:
+  - name: "Research"
+    url: /research/
+  - name: "Publications"
+    url: /publications/
+  - name: "CV"
+    url: /cv/CV_Anzar_Ali.pdf
+  - name: "Contact"
+    url: /contact/
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-remote-theme
+
+# Theme settings
+theme_settings:
+  appearance: "light"   # "light", "dark", or "auto"
+  back_to_top: true
+  show_footer: true
+  google_analytics: ""  # optional
+
